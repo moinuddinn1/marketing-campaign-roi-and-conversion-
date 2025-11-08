@@ -71,3 +71,5 @@ Using data-driven methods such as **EDA, hypothesis testing, correlation, and re
 ###  Final Takeaway
 The Facebook campaign demonstrated **moderate-to-strong ROI predictability** and clear cost–performance patterns.  
 By focusing on **click optimization, cost control, and seasonal targeting**, marketing teams can **maximize ROI while reducing inefficiency**.
+
+
